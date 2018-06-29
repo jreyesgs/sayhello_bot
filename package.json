@@ -1,0 +1,15 @@
+{
+  "name": "sayhello_bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "dependencies": {
+    "twit": "^2.2.10"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
